@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36efad6b-6877-481f-a56d-ebde81fa175a)
+![image](https://github.com/user-attachments/assets/a9682dde-90ab-4269-8621-716cbf0672df)
 
 
 # AirClaw Desktop Releases
