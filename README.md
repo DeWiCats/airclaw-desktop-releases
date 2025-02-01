@@ -21,7 +21,7 @@ Please note that AirClaw Desktop is currently in **alpha stage** and under activ
 ### Steps to Install AirClaw on your Mac:
 
 1. **Download the Installer:**
-   - Navigate to the [Releases](https://github.com/yourorganization/airclaw-desktop-releases/releases) page of this repository.
+   - Navigate to the [Releases](https://github.com/DeWiCats/airclaw-desktop-releases/releases) page of this repository.
    - Download the latest version of the AirClaw installer compatible with Mac.
 
 2. **Install the Application:**
@@ -48,10 +48,10 @@ AirClaw currently supports the following Mac architectures:
 
 ## Reporting Issues
 
-If you encounter any issues or have feedback, please report them to our [Issues](https://github.com/yourorganization/airclaw-desktop-releases/issues) page. We appreciate your contributions to improving AirClaw.
+If you encounter any issues or have feedback, please report them to our [Issues](https://github.com/DeWiCats/airclaw-desktop-releases/issues) page. We appreciate your contributions to improving AirClaw.
 
 ## Stay Updated
 
-To stay updated on AirClaw developments and new releases, watch this repository and join our community on [Discord](https://discord.gg/yourcommunitylink).
+To stay updated on AirClaw developments and new releases, watch this repository and join our community on [Discord](https://discord.gg/Vu8b3tED).
 
 Thank you for using AirClaw and supporting our decentralized VPN network!
